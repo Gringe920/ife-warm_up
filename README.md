@@ -3,10 +3,6 @@
 *陈晓武留*
 
 
-<<<<<<< HEAD
-aaaaaaaaaaaaa->
-bbbbbbbbbbb
-
 =======
 aaaaaaaaaaaaa->
 bbbbbbbbbbb
