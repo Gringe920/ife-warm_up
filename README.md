@@ -11,3 +11,7 @@ bbbbbbbbbbb
 aaaaaaaaaaaaa->
 bbbbbbbbbbb
 yangzhedi6
+
+    function ceshi() {
+    	var ce=null;
+    };
